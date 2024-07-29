@@ -1,0 +1,7 @@
+NEO4J_URI = "neo4j+s://47ff2a1f.databases.neo4j.io"
+NEO4J_USERNAME = "neo4j"
+NEO4J_PASSWORD = "bvp_m9Qrt_tAnTIOnIzLuRbKAYV-pJPo1S-NGaq-1lo"
+UMLS_API_KEY = "1597e923-58a0-4c2b-95b2-6671174d656a"
+GPT_API_KEY = "sk-proj-GanyPFNvbHDdPWI4npypT3BlbkFJJHl9bmNa2DKECC0Bfa6l"
+BERT_1 = "dmis-lab/biobert-v1.1"
+BERT_2 = "microsoft/BiomedNLP-PubMedBERT-base-uncased-abstract"

@@ -1,0 +1,8 @@
+[project]
+name = "NeoKG_LLM"
+version = "0.1.0"
+description = "This Project is an integration of Neo4j-KG with LLM"
+
+[build-system]
+requires = ["setuptools>=42", "wheel"]
+build-backend = "setuptools.build_meta"
