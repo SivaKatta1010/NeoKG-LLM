@@ -1,5 +1,16 @@
 # NeoKG-LLM
 
+## Publication
+
+This work has been accepted at **IEEE ICMLA 2024**.
+
+**Citation:**
+
+> Siva Kumar Katta, Aritra Ray, Farshad Firouzi, Krishnendu Chakrabarty.  
+> *KG-Infused LLM for Virtual Health Assistant: Accelerated Inference and Enhanced Performance*,  
+>  IEEE International Conference on Machine Learning and Applications (ICMLA), 2024.
+> Link to the paper: https://ieeexplore.ieee.org/document/10903426
+
 ## Overview
 
 This project aims to enhance the performance and efficiency of medical question-answering (QA) systems by integrating Large Language Models (LLMs) with a Knowledge Graph (KG) constructed from the Unified Medical Language System (UMLS) database. The project employs advanced Named Entity Recognition (NER) techniques and sophisticated ranking algorithms to improve the relevance and accuracy of responses in medical QA systems.
